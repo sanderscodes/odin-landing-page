@@ -1,0 +1,14 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+.header {
+    background-color: #1F2937;
+    width: 100%;
+    
+}
+.container-two {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style:italic;
+}
