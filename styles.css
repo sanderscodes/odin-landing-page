@@ -99,9 +99,18 @@ position: relative;
 
 .container-two {
     background-color: #E5E7EB;
+    padding: 200px;
+   
+}
+.quote{
     font-size: 36px;
     font-style:italic;
-
+}
+.author{
+    text-align: end;
+    font-size: 36px;
+    font-style:italic;
+    font-weight: bold;
 }
 
 
