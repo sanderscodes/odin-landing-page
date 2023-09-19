@@ -100,6 +100,7 @@ position: relative;
 .container-two {
     background-color: #E5E7EB;
     padding: 200px;
+    max-height: 200px;
    
 }
 .quote{
@@ -111,6 +112,54 @@ position: relative;
     font-size: 36px;
     font-style:italic;
     font-weight: bold;
+}
+.container-three{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blue-container {
+    background-color: #3882f6;
+    width: 75%;
+    height: 40%;
+    color: #F9FAF8;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: row;
+}
+.call-to-action {
+width: 80%;
+margin-left: 100px;
+display: flex;
+justify-content: center;
+flex-direction: column;
+}
+h4{
+    font-size: 24px;
+}
+.right{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.button-2{
+    background-color: #3882f6;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 10px;
+    
+}
+.footer {
+    background-color: #1F2937;
+    min-height: 70px;
+    text-align: center;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
